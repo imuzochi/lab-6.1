@@ -16,3 +16,5 @@ class DigitalProduct extends Product {
     }
 }
 
+export { DigitalProduct }
+

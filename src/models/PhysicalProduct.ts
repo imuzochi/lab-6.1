@@ -15,3 +15,5 @@ class PhysicalProduct extends Product {
         return `${this.weight} kg`;
     }
 }
+
+export { PhysicalProduct }
