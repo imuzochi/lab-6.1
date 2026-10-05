@@ -1,0 +1,4 @@
+1. TypeScript enforces type safety by highlighting areas whre the type isn't correct, ensuring that each variable has a type that correlates.
+2. Inheritance reduced code because you don't need to add declare all the variables that are shared, or even assign them in the constructor. All you have to do is declare the new ones.
+3. The benefits of using encapsulation is that you only have access to what you need to have access to, and it's not a free for all.
+4. Polymorphism would make implementation straightforward because I can just make it a subclass of Product and only declare new variables, instead of rewriting all the code again.
